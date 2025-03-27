@@ -27,6 +27,16 @@ Right-click `monitor.ps1` and select "Run with PowerShell". Make sure `config.ps
 
 ---
 
+
+### First Time Setup (Only Once)
+
+If you get a warning when trying to run the script by right-click → "Run with PowerShell", do the following:
+
+1. Right-click `monitor.ps1` and `config.ps1`, choose **Properties**, and check **"Unblock"** if it's visible.
+2. Open PowerShell and run this **once**:
+
+```powershell
+
 ## Project Structure
 
 ## Screenshot
