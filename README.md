@@ -37,5 +37,3 @@ If you get a warning when trying to run the script by right-click → "Run with 
 
 ```powershell
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
-
-
