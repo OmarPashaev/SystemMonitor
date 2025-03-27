@@ -36,10 +36,6 @@ If you get a warning when trying to run the script by right-click → "Run with 
 2. Open PowerShell and run this **once**:
 
 ```powershell
-
-## Project Structure
-
-## Screenshot
-Here is a screenshot of the system alert when RAM usage exceeds the threshold:
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 
 
