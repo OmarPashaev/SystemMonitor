@@ -6,6 +6,10 @@
 A lightweight PowerShell system monitoring tool that logs CPU and RAM usage and issues configurable alerts for performance tracking.
 
 ---
+## Project History
+
+This project was originally developed earlier and used locally. It was uploaded to GitHub on March 27, 2025, as part of an effort to organize and showcase my work publicly.
+
 
 ## Features
 - Logs CPU and RAM usage every 30 seconds
@@ -24,3 +28,8 @@ Right-click `monitor.ps1` and select "Run with PowerShell". Make sure `config.ps
 ---
 
 ## Project Structure
+
+## Screenshot
+Here is a screenshot of the system alert when RAM usage exceeds the threshold:
+
+
